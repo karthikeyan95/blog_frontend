@@ -1,0 +1,12 @@
+table.NewPost {
+    width: 100%;
+
+}
+table.NewPost tr{
+    margin: 2px;
+}
+.inputWrapper {
+    margin-top: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+}

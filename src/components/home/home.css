@@ -1,0 +1,8 @@
+.homeContainer{
+    display: flex;
+    width: 50%;
+    margin: auto;
+}
+.NavBar {
+    width: 100%;
+}
